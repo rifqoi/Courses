@@ -1,0 +1,94 @@
+---
+title: Time Management Assignment
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  pdf_document:
+    template: /home/rifqoi/R/x86_64-redhat-linux-gnu-library/4.1/stevetemplates/rmarkdown/templates/article/resources/template.tex
+fontfamily: mathpazo
+author:
+- name: Muhammad Rifqi Al Furqon  
+  affiliation: M2009F0987 
+- name: ML-39
+fontsize: 11pt
+---
+
+<br>
+----
+
+# Question
+
+Sofia just got accepted as a cloud engineer at a technology company focusing on logistics. She is feeling overwhelmed, as she has so many things to do in her task list:
+
+1. Hold a daily maintenance and be on-standby for her shift.
+2. Browse and buy a birthday present for her mom, whose birthday is next week.
+3. Prepare an infrastructure for data migration to cloud which will help the developer team to update the company’s app due in 3 days.
+4. Attend her primary school virtual reunion tonight.
+5. Grocery shopping to buy ingredients to prepare a feast for her mother’s birthday held next weekend.
+6. Prepare progress reports for the meeting this evening.
+7. Catch up with the last 3 episodes of her favorite TV series.
+8. Visit the doctor as she feels mild pain on her back after long hours of work recently.
+
+Please help Sofia create a time management quadrant for all of her tasks. Explain why you think each activity should fall into a particular quadrant in a short essay.
+
+
+# Answer
+
+Time Management Quadrant is a time management framework which classify tasks by their urgency of the matter (is it urgent or not?) and by its importance (is it important or not?).
+
+\
+We tend to do things that we think are the most urgent first. But not all urgent task is important.
+For example, a friend ask you about his problem. While it is an urgent case because you need to respond to him immediately, but it's not an important one because his problem doesn't align with our goals.
+
+\
+So to create a time management quadrant for Sofia, we need to classify her tasks to which one is urgent and important.
+
+1. **Hold a daily maintenance and be on-standby for her shift.**
+   
+    *Important - Urgent.*
+    
+    To be on-standby and hold a daily maintenance is one of her jobdesk as a cloud engineer, therefore she must do it herself everyday.
+
+2. **Browse and buy a birthday present for her mom, whose birthday is next week.**
+
+    *Important - Not Urgent*
+    
+    Her mom's birthday is important, but it's not urgent because the birthday is in next week. Hence she can schedule it for the next week.
+    
+   \
+   
+3. **Prepare an infrastructure for data migration to cloud which will help the developer team to update the company’s app due in 3 days.**
+
+    *Important - Not Urgent*
+
+    If the task is too big to be done at once, she can divide them into smaller tasks. Afterwards she can plan it proportionally to fit her schedule.
+
+4. **Attend her primary school virtual reunion tonight.**
+
+    *Important - Not Urgent*
+
+    To maintain a good relationship with her friend is important, she can plan it tonight if there is no urgent task. 
+
+5. **Grocery shopping to buy ingredients to prepare a feast for her mother’s birthday held next weekend.**
+
+    *Important - Not Urgent*
+
+    She can do grocery shopping  and preparing the birthday gift for her mother's birthday simultaneously on the same schedule.
+
+6. **Prepare progress reports for the meeting this evening.**
+
+    *Important - Urgent*
+
+    The meeting is in this evening and it's within her jobdesk to prepare the progress report for this meeting. 
+
+7. **Catch up with the last 3 episodes of her favorite TV series.**
+
+    *Not Important - Not Urgent*
+
+    She can watch it anytime she wants, and watching TV is one of time wasters to avoid in managing time properly.
+
+8. **Visit the doctor as she feels mild pain on her back after long hours of work recently.**
+
+    *Important - Not Urgent*
+    
+    As an IT person, Sofia's daily life is not far from interacting with computer all day long. It's important for her to have a healthy life to maintain her daily lifestyle. She can plan to visit a doctor outside of her working day.
+
