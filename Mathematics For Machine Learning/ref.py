@@ -108,16 +108,19 @@ def new_matrix_vector(A):
 
 
 matrix = np.array([
-                [2, 4, 21, 90],
-                [10, 8, 10, 24],
-                [10, 15, 3, 76],
+                [9 ,2, 4, 21, 90],
+                [9 ,10, 8, 10, 24],
+                [9 ,10, 15, 3, 76],
+                [9 ,1, 35, 39, 86],
             ], dtype=np.float_)
 
 matrix = fixRowZero(matrix)
 matrix = fixRowOne(matrix)
 matrix = fixRowTwo(matrix)
+matrix = fixRowThree(matrix)
 matrix, vector = new_matrix_vector(matrix)
 
 result = np.linalg.solve(matrix, vector)
 print(result)
 print(matrix)
+print(vector)
